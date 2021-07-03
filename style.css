@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('images/pexels-travis-blessing-1363876.jpg');
+    background-size: cover;
+}
+
+h1{
+    color: bisque;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    color: bisque;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    color: bisque;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h4{
+    color: bisque;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h5{
+    color: bisque;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h6{
+    color: bisque;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.picture{
+    text-align: center;
+    width: 100%;
+}
+
+.identity{
+    text-align: center;
+    width: 100%;
+}
+
+blockquote{
+    color: bisque;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    width: 25%;
+    margin-left: 37%;
+}
+
+p{
+    color: bisque;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    width: 25%;
+    margin-left: 37.5%;
+}
+
+hr{
+    color: bisque;
+    border-top: 2px solid;
+}
